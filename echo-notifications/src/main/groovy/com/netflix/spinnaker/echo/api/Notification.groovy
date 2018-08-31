@@ -41,7 +41,8 @@ class Notification {
     PAGER_DUTY,
     JIRA,
     BEARYCHAT,
-    GOOGLECHAT
+    GOOGLECHAT,
+    RALLY
   }
 
   static enum Severity {
